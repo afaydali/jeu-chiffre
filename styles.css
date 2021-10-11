@@ -1,0 +1,5 @@
+:root{
+    --title: #f8c27a;
+    --textShadow: 0 2px 2px rgba(0, 0, 0, 0.7);
+    --boxShadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
